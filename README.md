@@ -7,7 +7,7 @@
 ## 打开github项目里的“1无脑即可使用.js”文件，全选复制
 
 - 项目地址：
-https://github.com/jc-lw/cloudflare-workers-pages
+https://github.com/jc-lw/cloudflare-wangzhantisu
 
 
 ## 打开 *cloudflare* ,找到 `Workers 和 Pages `点击
