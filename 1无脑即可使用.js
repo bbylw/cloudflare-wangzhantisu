@@ -4,7 +4,7 @@ addEventListener("fetch", event => {
 
 async function handleRequest(request) {
   let url = new URL(request.url);
-  url.hostname = "项目地址"; ##项目地址
+  url.hostname = "项目地址"; 
 
   let newRequest = new Request(url, {
     method: request.method,
