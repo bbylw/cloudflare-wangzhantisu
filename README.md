@@ -1,4 +1,4 @@
-# 利用优选域名或优选IP提高访问网站速度，方法如下
+![P2400327169](https://github.com/user-attachments/assets/7277317e-ee1d-4c18-8ddb-c0c09862ad7e)# 利用优选域名或优选IP提高访问网站速度，方法如下
 
 
 
@@ -52,6 +52,19 @@ https://github.com/jc-lw/cloudflare-wangzhantisu
 - 选择访问 `www.lwxpz.ggff.net` 既可打开网站
 ![image.png](https://rin.vcrr.us.kg/images/48064ddbb69ec885e191f62479558046749aa5b3.png)
 
+# 这里来简单化，首先在github 复制js文件里的内容
+- 地址 https://github.com/jc-lw/cloudflare-wangzhantisu
+- 返回cloudflare workers与pages，新建workers项目，把github项目粘贴上去
+
+![image|690x452](upload://r6OmgshNTtElvyg4i1aMlyVfnmN.png)
+
+![image|690x286](upload://qCIrpGrERPTESBRE9Fl2y7LJOdp.png)
+![image|690x344](upload://p7i3W7tueI6cG99YxFVIn5lwmjf.png)
+![image|690x342](upload://q7WtEwjx4lzIknudU2UjvH4Wq3n.png)
+![image|690x494](upload://mfbmYlW7VoizLVsUF0LC1PgqSJg.png)
+![image|690x408](upload://3c7Pjux1QabqnUUH5mclxg0I4Z0.png)
+# 没错 就是这么简单，其他网站也支持这样玩 详细的自己摸索
+- 原理 我不知道
 # 方法二，利用国际版华为云提速网站
 -123
 
