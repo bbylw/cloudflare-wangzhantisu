@@ -1,4 +1,4 @@
-![P2400327169](https://github.com/user-attachments/assets/7277317e-ee1d-4c18-8ddb-c0c09862ad7e)# 利用优选域名或优选IP提高访问网站速度，方法如下
+# 利用优选域名或优选IP提高访问网站速度，方法如下
 
 
 
