@@ -27,44 +27,16 @@ https://github.com/jc-lw/cloudflare-wangzhantisu
 ## 把github项目里的“1无脑即可使用.js”文件，复制粘贴到cloudflare workers项目里，全部替换上去，如图
 ![image.png](https://rin.vcrr.us.kg/images/8c6440b5501872084ff5ab7744234836a1f8280c.png)
 
-- 项目地址 `telegraph-image-7qp.pages.dev`
-![image.png](https://rin.vcrr.us.kg/images/52da7311ce50ef6f68591ca44b77b4133326cb8a.png)
-
-![image.png](https://rin.vcrr.us.kg/images/00adf9e63faeac4a2cfd42a7ccf8750f275bc3af.png)
-
--确定没问题后，点击`部署`
-
-![image.png](https://rin.vcrr.us.kg/images/c4af7e80dbd4429d6d38a175d52952ef6c6bd5d4.png)
-
-## 找到workers里的`设置`，域和路由，点击`添加`
-![image.png](https://rin.vcrr.us.kg/images/091ee22cb083dae725ebe28ece3e16f3ecef7b8f.png)
-
-- 选择路由
-![image.png](https://rin.vcrr.us.kg/images/154a70e67a9e70bdbd401316545cfcf62bc9f094.png)
-
-- 区域选择要提速的域名，路由 www.lwxpz.ggff.net 等等,没问题后，右下角添加路由
-![image.png](https://rin.vcrr.us.kg/images/e25fd1cfc8dd6970f5642e3a74283b3c11026f69.png)
-## 域名lwxpz.ggff.net DNS解析记录
-- CNAME-二级前序   优选域名/优选IP 没问题后点击添加
-![image.png](https://rin.vcrr.us.kg/images/d4725a445deae28ef82b36d66dffa6ef54eca313.png)
-
-
-- 选择访问 `www.lwxpz.ggff.net` 既可打开网站
-![image.png](https://rin.vcrr.us.kg/images/48064ddbb69ec885e191f62479558046749aa5b3.png)
-
-# 这里来简单化，首先在github 复制js文件里的内容
-- 地址 https://github.com/jc-lw/cloudflare-wangzhantisu
-- 返回cloudflare workers与pages，新建workers项目，把github项目粘贴上去
-
-![image|690x452](upload://r6OmgshNTtElvyg4i1aMlyVfnmN.png)
-
-![image|690x286](upload://qCIrpGrERPTESBRE9Fl2y7LJOdp.png)
-![image|690x344](upload://p7i3W7tueI6cG99YxFVIn5lwmjf.png)
-![image|690x342](upload://q7WtEwjx4lzIknudU2UjvH4Wq3n.png)
-![image|690x494](upload://mfbmYlW7VoizLVsUF0LC1PgqSJg.png)
-![image|690x408](upload://3c7Pjux1QabqnUUH5mclxg0I4Z0.png)
+# 示范
+![image.png](https://img.lwxpz.me/file/1733486003300_image.png)
+![image.png](https://img.lwxpz.me/file/1733486034771_image.png)
+![image.png](https://img.lwxpz.me/file/1733486046375_image.png)
+![image.png](https://img.lwxpz.me/file/1733486065267_image.png)
+![image.png](https://img.lwxpz.me/file/1733486084652_image.png)
+![image.png](https://img.lwxpz.me/file/1733486101620_image.png)
 # 没错 就是这么简单，其他网站也支持这样玩 详细的自己摸索
 - 原理 我不知道
+
 # 方法二，利用国际版华为云提速网站
 -123
 
